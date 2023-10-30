@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/salon_lamviec"
+        android:title="SALON LÀM VIỆC"/>
+    <item
+        android:id="@+id/ngaycong"
+        android:title="NGÀY CÔNG"/>
+    <item
+        android:id="@+id/luong"
+        android:title="LƯƠNG"/>
+</menu>
